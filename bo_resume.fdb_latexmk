@@ -1,6 +1,6 @@
 # Fdb version 3
-["pdflatex"] 1624731356 "/Users/bo/resume/bo_resume.tex" "bo_resume.pdf" "bo_resume" 1624731356
-  "/Users/bo/resume/bo_resume.tex" 1624731355 6832 2cb1f3ca71e42b6ba3b8b62d881d46f7 ""
+["pdflatex"] 1624731511 "/Users/bo/resume/bo_resume.tex" "bo_resume.pdf" "bo_resume" 1624731511
+  "/Users/bo/resume/bo_resume.tex" 1624731510 6832 fd2c726dfadb3b6683a34c14cdf3a2f0 ""
   "/usr/local/texlive/2021basic/texmf-dist/fonts/tfm/public/cm/cmr10.tfm" 1136768653 1296 45809c5a464d5f32c8f98ba97c1bb47f ""
   "/usr/local/texlive/2021basic/texmf-dist/tex/latex/base/article.cls" 1601675358 20145 aad8c3dd3bc36e260347b84002182bc2 ""
   "/usr/local/texlive/2021basic/texmf-dist/tex/latex/base/latexsym.sty" 1580683321 2854 12555a1cadee722c56d2816ab5a895f5 ""
@@ -9,8 +9,8 @@
   "/usr/local/texlive/2021basic/texmf-dist/web2c/texmf.cnf" 1616443989 39972 3d6bb4d9d719e93193fa020b58adf5d4 ""
   "/usr/local/texlive/2021basic/texmf-var/web2c/pdftex/pdflatex.fmt" 1624714485 2057441 3cd62cffce051d4e3df96097e0bb4754 ""
   "/usr/local/texlive/2021basic/texmf.cnf" 1616691442 628 e23d78b1be89c53495d66eec94d2300d ""
-  "bo_resume.aux" 1624731356 32 3985256e7290058c681f74d7a3565a19 ""
-  "bo_resume.tex" 1624731355 6832 2cb1f3ca71e42b6ba3b8b62d881d46f7 ""
+  "bo_resume.aux" 1624731511 32 3985256e7290058c681f74d7a3565a19 ""
+  "bo_resume.tex" 1624731510 6832 fd2c726dfadb3b6683a34c14cdf3a2f0 ""
   "titlesec.sty" 0 -1 0 ""
   (generated)
   "bo_resume.log"
